@@ -1,0 +1,12 @@
+    1  cd repogit
+    2  cd Test123
+    3  cd Test213
+    4  echo "Hola Mundo" > datos.txt
+    5  ls
+    6  cat datos.txt
+    7  whoami
+    8  echo "usuario=$(whoami)" >> datos.txt
+    9  cat datos.txt
+   10  history
+   11  ls
+   12  history > historico.txt
